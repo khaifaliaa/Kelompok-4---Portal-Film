@@ -710,17 +710,4 @@ Fitur yang bisa ditambahkan di masa depan:
 
 ---
 
-## 📞 Kontak
 
-Untuk pertanyaan atau feedback tentang project ini:
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
-
----
-
-**⚡ Built with ❤️ using Android Studio & TMDB API**
-
----
-
-*README ini dibuat untuk memudahkan presentasi dan dokumentasi project PortalFilm. Semoga sukses presentasinya! 🎉*
